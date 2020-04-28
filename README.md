@@ -10,7 +10,7 @@ Disclaimer: Neither me nor this repo is associated in any way with NVidia. I did
 </b>
 
 ## TL;DR
-I have trained a StyleGAN2 from scratch with a dataset of female portraits at 1024px resolution. The samples quality was further improved by tuning the parameters and augmenting the dataset with zoomed-in images, allowing the network to learn more details and to achieved FID metrics that are comparable to the results of the original work.
+I have trained StyleGAN2 from scratch with a dataset of female portraits at 1024px resolution. The samples quality was further improved by tuning the parameters and augmenting the dataset with zoomed-in images, allowing the network to learn more details and to achieved FID metrics that are comparable to the results of the original work.
 
 ![](images/seeds-23-40-66-166-347-447-511-895-908-945-973-976--070-sfw.jpg)
 *Curated samples, Ψ=0.70*
